@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-tutorial/static/css/main.a617e044.chunk.css",
+    "main.js": "/react-tutorial/static/js/main.2f3bc3a0.chunk.js",
+    "main.js.map": "/react-tutorial/static/js/main.2f3bc3a0.chunk.js.map",
+    "runtime-main.js": "/react-tutorial/static/js/runtime-main.9dd8b517.js",
+    "runtime-main.js.map": "/react-tutorial/static/js/runtime-main.9dd8b517.js.map",
+    "static/js/2.8a261a6c.chunk.js": "/react-tutorial/static/js/2.8a261a6c.chunk.js",
+    "static/js/2.8a261a6c.chunk.js.map": "/react-tutorial/static/js/2.8a261a6c.chunk.js.map",
+    "static/js/3.78e26fd0.chunk.js": "/react-tutorial/static/js/3.78e26fd0.chunk.js",
+    "static/js/3.78e26fd0.chunk.js.map": "/react-tutorial/static/js/3.78e26fd0.chunk.js.map",
+    "index.html": "/react-tutorial/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/react-tutorial/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.8a261a6c.chunk.js.LICENSE.txt": "/react-tutorial/static/js/2.8a261a6c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-tutorial/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9dd8b517.js",
+    "static/js/2.8a261a6c.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.2f3bc3a0.chunk.js"
+  ]
+}
